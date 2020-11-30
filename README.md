@@ -2,13 +2,8 @@
 I'm Kavya D. I'm currently pursuing **B.Tech**(Information Science and Engineering) in *Dayanandasagar College of Engineering, Bangalore*. Fields I'm interested in are *Web Development*, *Machine Learning* *and* *Artificial Intelligence*.  I like to explore the world and would never leave any good opportunity untouched.
 
 - 🔭 I’m currently working on **Python Project**.
-
 - 🌱 I’m currently learning **OpenCV**.
-
-- 🤔 I’m looking for help with **Javascript**.
-
 - 📫 How to reach me: *Mail me at* kavyadheerendra@gmail.com. 
-
 - ⚡ Fun fact: I am a good chef :stuck_out_tongue:
 
 
